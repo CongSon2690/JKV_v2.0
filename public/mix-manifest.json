@@ -1,0 +1,9 @@
+{
+    "/js/app.js": "/js/app.js",
+    "/js/master-data/unit.js": "/js/master-data/unit.js",
+    "/js/master-data/materials.js": "/js/master-data/materials.js",
+    "/js/master-data/product.js": "/js/master-data/product.js",
+    "/js/master-data/machine.js": "/js/master-data/machine.js",
+    "/js/master-data/error.js": "/js/master-data/error.js",
+    "/css/app.css": "/css/app.css"
+}
